@@ -1,1 +1,1 @@
-Developed a real-time face detection system using OpenCV, capturing video from a webcam, detecting faces, and saving images with timestamps. Implemented features for manual image capture and file management, demonstrating expertise in computer vision and Python programming.
+Developed a real-time face detection system using OpenCV, capturing video from a webcam, detecting faces, and saving images. Implemented features for manual image capture and file management, demonstrating expertise in computer vision and Python programming.
